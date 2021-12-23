@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Azul",
+      "price": 1.5
+    },
+    {
+      "id": 2,
+      "name": "Caneta Bic Preta",
+      "price": 1.6
+    },
+    {
+      "id": 3,
+      "name": "Caneta Bic Vermelha",
+      "price": 2.6
+    },
+    {
+      "name": "Produto Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Playstation 5",
+      "price": "5325.96",
+      "id": 5
+    },
+    {
+      "name": "Geladeira Inox",
+      "price": "5000",
+      "id": 6
+    },
+    {
+      "name": "Copo Stanley",
+      "price": "150",
+      "id": 7
+    },
+    {
+      "name": "Notebook ",
+      "price": "3000",
+      "id": 8
+    }
+  ]
+}
